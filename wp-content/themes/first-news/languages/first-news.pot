@@ -1,0 +1,555 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-06 07:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:83 index.php:53 search.php:52
+msgid "<"
+msgstr ""
+
+#: archive.php:84 index.php:54 search.php:53
+msgid ">"
+msgstr ""
+
+#. 1: title.
+#: comments.php:29
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:39
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:117 inc/customizer.php:333 inc/customizer.php:358
+#: inc/customizer.php:389
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:119 functions.php:128 functions.php:137 functions.php:147
+#: functions.php:156 functions.php:165 functions.php:174
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:126 inc/customizer.php:334 inc/customizer.php:359
+#: inc/customizer.php:390
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:135
+msgid "First News : Home Page"
+msgstr ""
+
+#: functions.php:145
+msgid "First News : Footer First Section"
+msgstr ""
+
+#: functions.php:154
+msgid "First News : Footer Second Section"
+msgstr ""
+
+#: functions.php:163
+msgid "First News : Footer Third Section"
+msgstr ""
+
+#: functions.php:172
+msgid "First News : Footer Fourth Section"
+msgstr ""
+
+#: functions.php:181
+msgid "First News Header Ad : Banner Ad"
+msgstr ""
+
+#: functions.php:183
+msgid "Add advertisement here."
+msgstr ""
+
+#: functions.php:361
+msgid "all"
+msgstr ""
+
+#: functions.php:391
+msgid "View More News"
+msgstr ""
+
+#. %s: search query.
+#: search.php:32
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "FN: General Settings"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "GooglePlus Link"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "RSS Link"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "FN: Homepage Slider"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Show Slider"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "ON/OFF Breaking News"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "ON/OFF slider."
+msgstr ""
+
+#: inc/customizer.php:209 inc/customizer.php:263
+msgid "Slider posts category"
+msgstr ""
+
+#: inc/customizer.php:210 inc/customizer.php:264
+msgid "Select The Slider Category Options."
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Number of Slide"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "No. of post for slider."
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Full Width Slider"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Slider with Left Posts"
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "Slider with Right Posts"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "FN: Layout"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Home Page Layout"
+msgstr ""
+
+#: inc/customizer.php:299 inc/customizer.php:330 inc/customizer.php:386
+msgid "Sidebar Archive"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "Homepage Full Width"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Homepage Box Layout"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "FN: Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:335 inc/customizer.php:360 inc/customizer.php:391
+#: inc/customizer.php:421 inc/customizer.php:444
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Home Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/customizer.php:422 inc/customizer.php:445 inc/widgets/widgets.php:86
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer.php:423
+msgid "Alternate"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Banner"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "FN: Date Format"
+msgstr ""
+
+#: inc/customizer.php:472
+msgid "Date format"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Human Readable"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-page.php:34
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:32
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/contents-single.php:74
+msgid "Related posts"
+msgstr ""
+
+#. Name of the template
+msgid "Home page"
+msgstr ""
+
+#: inc/hooks/footer-hooks.php:57
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: inc/hooks/footer-hooks.php:59
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: inc/hooks/footer-hooks.php:64
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/hooks/header-hooks.php:36
+msgid "Breaking News"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/first-news-sidebar-list.php:11
+msgid "FN: Sidebar List Widget"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:12
+msgid "Display the Sidebar List."
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:21
+msgid "Sidebar List"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:32
+#: inc/widgets/first-news-slider-widget.php:29 inc/widgets/widgets.php:68
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:37
+#: inc/widgets/first-news-slider-widget.php:33
+msgid "Select a post category:"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:38
+#: inc/widgets/first-news-slider-widget.php:34
+msgid "All Category"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:42
+#: inc/widgets/first-news-slider-widget.php:37
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:48
+msgid "First News Sidebar Layout:"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:52
+msgid "List View"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:55
+msgid "Gird View"
+msgstr ""
+
+#: inc/widgets/first-news-sidebar-list.php:58
+msgid "First Full Then List"
+msgstr ""
+
+#: inc/widgets/first-news-slider-widget.php:11
+msgid "FN: Post Slider Widgets"
+msgstr ""
+
+#: inc/widgets/first-news-slider-widget.php:12
+msgid "Display the Slider Post."
+msgstr ""
+
+#: inc/widgets/first-news-slider-widget.php:21
+msgid "Latest News"
+msgstr ""
+
+#: inc/widgets/grid.php:22 inc/widgets/list.php:22
+#: inc/widgets/two-column.php:17
+msgid "Category not selected."
+msgstr ""
+
+#: inc/widgets/widgets-category.php:12
+msgid "FN Home: Category Section "
+msgstr ""
+
+#: inc/widgets/widgets-category.php:13
+msgid "A widget that shows category section"
+msgstr ""
+
+#: inc/widgets/widgets-category.php:82 inc/widgets/widgets.php:94
+msgid "Category:"
+msgstr ""
+
+#: inc/widgets/widgets.php:12
+msgid "FN Home: Home Page News "
+msgstr ""
+
+#: inc/widgets/widgets.php:13
+msgid "A widget that shows news section"
+msgstr ""
+
+#: inc/widgets/widgets.php:77
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/widgets.php:80
+msgid "Grid"
+msgstr ""
+
+#: inc/widgets/widgets.php:83
+msgid "List"
+msgstr ""
+
+#: inc/widgets/widgets.php:89
+msgid "Single Category"
+msgstr ""
+
+#: inc/widgets/widgets.php:111
+msgid "Title Background:"
+msgstr ""
+
+#: inc/widgets/widgets.php:124
+msgid "&nbsp; Show Category tab"
+msgstr ""
+
+#: inc/widgets/widgets.php:130
+msgid "Post Count:"
+msgstr ""
+
+#: inc/widgets/widgets.php:140
+msgid "&nbsp; Show Recent News"
+msgstr ""
+
+#: inc/widgets/widgets.php:147
+msgid "Sidebar Post Count:"
+msgstr ""
+
+#. Name of the theme
+msgid "First News"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"First News is a clean, beautiful and fully customizable responsive WordPress "
+"magazine theme for blog, news and magazine sites. This theme includes many "
+"custom widgets which helps making your magazine professional and well "
+"organized. Some of the features this theme includes are customizable slider, "
+"category section, news category tab and many others. This theme is "
+"translation ready, SEO friendly and loads very quickly."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themerelic.com/wordpress-themes/first-news-magazine-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "themerelic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themerelic.com"
+msgstr ""

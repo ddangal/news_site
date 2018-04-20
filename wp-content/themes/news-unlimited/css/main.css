@@ -1,0 +1,212 @@
+
+/*------------------------------------------------------------------
+Project:        Cyclone-Resume & Portfolio Template
+Author:         Samin Tha
+Author URL:     http://samintha.com.np
+Version:        1.0.0
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+* Table of Content
+* 1. Fonts
+* 2. Reset
+* 3. Default Typography
+-------------------------------------------------------------------*/
+
+/*************************
+*******Fonts******
+**************************/
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('../../assets/fonts/OpenSansRegular.eot');
+    src: url('../../assets/fonts/OpenSansRegular.eot') format('embedded-opentype'),
+         url('../../assets/fonts/OpenSansRegular.woff2') format('woff2'),
+         url('../../assets/fonts/OpenSansRegular.woff') format('woff'),
+         url('../../assets/fonts/OpenSansRegular.ttf') format('truetype'),
+         url('../../assets/fonts/OpenSansRegular.svg#OpenSansRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'OxygenRegular';
+    src: url('../fonts/OxygenRegular.eot');
+    src: url('../fonts/OxygenRegular.eot') format('embedded-opentype'),
+         url('../fonts/OxygenRegular.woff2') format('woff2'),
+         url('../fonts/OxygenRegular.woff') format('woff'),
+         url('../fonts/OxygenRegular.ttf') format('truetype'),
+         url('../fonts/OxygenRegular.svg#OxygenRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'JosefinSansRegular';
+    src: url('../fonts/JosefinSansRegular.eot');
+    src: url('../fonts/JosefinSansRegular.eot') format('embedded-opentype'),
+         url('../fonts/JosefinSansRegular.woff2') format('woff2'),
+         url('../fonts/JosefinSansRegular.woff') format('woff'),
+         url('../fonts/JosefinSansRegular.ttf') format('truetype'),
+         url('../fonts/JosefinSansRegular.svg#JosefinSansRegular') format('svg');
+}
+
+
+
+/*************************
+*******Reset******
+**************************/
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,q {
+    quotes: "" "";
+    margin-left: 1.5em;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+* {
+    box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -khtml-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color:#414141;
+  background: rgba(248, 248, 248, 0.50);
+  line-height:1.5;
+  margin: 0;
+  padding: 0;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+img {
+    -ms-interpolation-mode: bicubic;
+}
+
+object,
+embed {
+    max-width: 100%;
+}
+
+
+/*************************
+*******Default Typography******
+**************************/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700; 
+  margin: 0;
+  line-height: 1.5;
+  font-family: 'OxygenRegular';
+  text-transform: uppercase;
+}
+
+h1{
+  font-size:40px;
+}
+
+h2{
+  font-size:28px;
+}
+
+h3{
+  font-size:21px;
+}
+
+h4{
+  font-size: 16px;
+}
+
+h5{
+  font-size: 14px;
+}
+
+h6{
+  font-size: 12px;
+}
+
+p{
+  font-size: 14px;
+  margin-bottom: 5px;
+  line-height: 1.8;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #000;
+  -webkit-transition: color 300ms, background-color 300ms;
+  -moz-transition: color 300ms, background-color 300ms;
+  -o-transition:  color 300ms, background-color 300ms;
+  transition:  color 300ms, background-color 300ms;
+}
+
+a:hover,
+a:focus {
+  color: #f28300;
+  text-decoration: none;
+  outline: none;
+}
+
+hr {
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #fff;
+}
+
+i{
+  padding-right: 5px;
+}
